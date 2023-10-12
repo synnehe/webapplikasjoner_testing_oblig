@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Homemade+Apple&family=Press+Start+2P&family=Shadows+Into+Light&display=swap");
+body {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+* {
+  font-family: "Shadows Intro Light";
+}
+
+h1 {
+  font-size: 3rem;
+  margin: 3rem 0rem;
+  font-family: "Homemade Apple";
+}
+
+#character {
+  font-size: 3rem;
+  margin-bottom: 3rem;
+}
+
+button {
+  background-color: cornflowerblue;
+  color: white;
+  padding: 1rem;
+  border-radius: 30px;
+  font-size: 2rem;
+}
+button:hover {
+  background-color: darkorange;
+}
+
+/*# sourceMappingURL=main.css.map */
